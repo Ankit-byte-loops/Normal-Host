@@ -179,6 +179,16 @@ font-weight: bold;
   color:rgb(229, 255, 0);
   font-weight: bold;
 }
+
+    .back{
+  background: url("/images/2.jpg");
+  background-color: #cccccc;
+  height: 320px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+}
 .social-icon {
 
   margin: 20px 10px;
