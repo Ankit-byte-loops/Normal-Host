@@ -180,9 +180,8 @@ font-weight: bold;
   font-weight: bold;
 }
 
-    .back{
-      
-background-image: url('2.jpg');
+    .back{ 
+background-image: url('./2.jpg');
     background-color: #cccccc;
   height: 320px; /* You must set a specified height */
   background-position: center; 
