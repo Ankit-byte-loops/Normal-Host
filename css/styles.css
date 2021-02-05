@@ -182,7 +182,7 @@ font-weight: bold;
 
     .back{
       
-  background-color: #000000;
+background-image:url('2.jpg');
   height: 320px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
