@@ -128,7 +128,7 @@ p {
 }
 
 .testimonial-text {
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -181,7 +181,6 @@ font-weight: bold;
 }
 
     .back{
-  background-image: url("/images/2.jpg");
   background-color: #cccccc;
   height: 320px; /* You must set a specified height */
   background-position: center; /* Center the image */
